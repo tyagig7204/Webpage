@@ -105,6 +105,44 @@ Most frequently made from cow's milk, butter can also be manufactured from the m
 
 Butter is a water-in-oil emulsion resulting from an inversion of the cream, where the milk proteins are the emulsifiers. Butter remains a firm solid when refrigerated but softens to a spreadable consistency at room temperature and melts to a thin liquid consistency at 32 to 35 °C (90 to 95 °F). The density of butter is 911 g/L (15+1⁄4 oz/US pt).[3] It generally has a pale yellow color but varies from deep yellow to nearly white. Its natural, unmodified color is dependent on the source animal's feed and genetics, but the commercial manufacturing process sometimes alters this with food colorings like annatto[4] or carotene.
 
+
+<img src="D:\HTML\Milk.jpeg" align="right" alt="Invalid Image" vspace="95" height=250 width=250>
+<h3 id="Milk"><u>Milk </u> </h3>
+<p> Milk is a white liquid food produced by the mammary glands of mammals. It is the primary source of nutrition for young mammals (including breastfed human infants) before they are able to digest solid food.[1] Immune factors and immune-modulating components in milk contribute to milk immunity. Early-lactation milk, which is called colostrum, contains antibodies that strengthen the immune system and thus reduce the risk of many diseases. Milk contains many nutrients, including protein and lactose.[2]
+
+As an agricultural product, dairy milk is collected from farm animals. In 2011, dairy farms produced around 730 million tonnes (800 million short tons) of milk[3] from 260 million dairy cows.[4] India is the world's largest producer of milk and the leading exporter of skimmed milk powder, but it exports few other milk products.[5][6] Because there is an ever-increasing demand for dairy products in India, it could eventually become a net importer of dairy products.[7] New Zealand, Germany, and the Netherlands are the largest exporters of milk products.[8] The US Centers for Disease Control and Prevention recommends that children over the age of 12 months should have two servings of dairy milk products a day.[9]
+
+More than six billion people worldwide consume milk and milk products, and between 750 and 900 million people live in dairy-farming households.
+</p>
+
+
+
+<table border=1 background="D:\HTML\vickyimage.jpg">
+	<caption>Available Product</caption>
+	<tr>
+	   <th>Product</th><th>Prices</th>
+	</tr>
+	<tr>
+	  <td>Milk</td><td>40</td>
+	</tr>
+	<tr>
+	  <td>Curd</td><td>80</td>
+	</tr>
+	<tr>
+	  <td>Paneer</td><td>400</td>
+	</tr>
+	<tr>
+	  <td>Butter</td><td>300</td>
+	</tr>
+	<tr>
+	  <td>Cheese</td><td>500</td>
+	</tr>
+	<tr>
+	  <td>Desi _Ghee</td><td>1000</td>
+	</tr>
+</table>
+
+
 <footer>&copy;developed  by Tyagi's</footer>
 
 </font></p>

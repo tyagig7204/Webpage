@@ -38,6 +38,7 @@ Dairy_Product
 	   <li><a href="#Safal_Matar">Safal Matar</a>
 	   <li><a href="#Desi_Ghee">Desi Ghee</a> 
 	   <li><a href="#Butter">Butter</a>
+	   <li><a href="#Milk">Milk</li>
 	</ul>
 
 </marquee>

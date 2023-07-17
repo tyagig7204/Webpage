@@ -25,7 +25,7 @@ Dairy_Product
 <img src="D:\HTML\stamp.jpeg" height=120 width=250 align=left>
 <img src="D:\HTML\dairy1.jpeg" height="120" width=250 align=right alt="Invalid Image">
 
-<h1><center> <font size="60"><u>Vishal Dairy<br><font size="5">Meet Nagar Delhi</font></u><br><font size="3">Since 1996</font></center></h1>
+<h1><center> <font size="60"><u>Vishal Dairy<br><font size="5">NIWARI UP</font></u><br><font size="3">Since 1996</font></center></h1>
 
 <hr>
 <p><marquee bgcolor=#fc8403><font size="6" > All The Dairy Product Paneer,Cheese,Curd,Safal_Matar,Desi Ghee,Butter,Cakes and Pastries are also available here  </font></marquee></p>
@@ -104,7 +104,7 @@ Most frequently made from cow's milk, butter can also be manufactured from the m
 
 Butter is a water-in-oil emulsion resulting from an inversion of the cream, where the milk proteins are the emulsifiers. Butter remains a firm solid when refrigerated but softens to a spreadable consistency at room temperature and melts to a thin liquid consistency at 32 to 35 °C (90 to 95 °F). The density of butter is 911 g/L (15+1⁄4 oz/US pt).[3] It generally has a pale yellow color but varies from deep yellow to nearly white. Its natural, unmodified color is dependent on the source animal's feed and genetics, but the commercial manufacturing process sometimes alters this with food colorings like annatto[4] or carotene.
 
-
+<footer>&copy;developed  by Tyagi's</footer>
 
 </font></p>
 

@@ -43,7 +43,7 @@ Dairy_Product
 
 </marquee>
 
-<video width=720 height=350 controls loop><source src="D:\HTML\production_id_4296854 (2160p).mp4" type="video/mp4"></video>
+<video width=720 height=350 controls loop><source src="D:\HTML\production_id_4296854 (2160p).mp4" type="video/mp4" alt="Invalid video"></video>
 
 
 <img src="D:\HTML\vickyimage.jpg" align=right height=350 width=400 alt="Invalid Image">
